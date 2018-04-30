@@ -1,0 +1,12 @@
+main: net.hashcodedevelopement.friendaddon.FriendAddon
+
+name: HashCodeDev-Friends
+author: Cerus
+version: 1.2
+description: FriendAddon developed by HashCodeDevelopment. You are not allowed to sell, share or decompile this plugin without our permission.
+softdepend: [HashCodeDev-LobbySystem]
+website: www.hashcodedevelopement.net
+
+commands:
+  friend:
+    aliases: [f, friends]
